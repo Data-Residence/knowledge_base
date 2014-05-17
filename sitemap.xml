@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://Data-Residence.github.io/knowledge_base/blog/2014/05/16/multinode-big-data-toolbox-with-docker/
+        </loc>
+        <lastmod>2014-05-17T13:47:00+03:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://Data-Residence.github.io/knowledge_base/blog/2014/05/16/data-structures-for-big-data/
+        </loc>
+        <lastmod>2014-05-17T13:58:20+03:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://Data-Residence.github.io/knowledge_base/blog/2014/05/17/event-driven-architecture-and-complex-event-processing-for-iot/
+        </loc>
+        <lastmod>2014-05-17T14:04:02+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://Data-Residence.github.io/knowledge_base/blog/archives/</loc>
+        <lastmod>2014-05-17T14:04:02+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://Data-Residence.github.io/knowledge_base/robots.txt</loc>
+        <lastmod>2014-05-16T18:26:28+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://Data-Residence.github.io/knowledge_base/</loc>
+        <lastmod>2014-05-17T14:04:02+03:00</lastmod>
+    </url>
+</urlset>

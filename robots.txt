@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://Data-Residence.github.io/knowledge_base/sitemap.xml 
